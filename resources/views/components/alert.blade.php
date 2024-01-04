@@ -1,0 +1,1 @@
+@if(Session::has('success'))<div class="card-body"><div class="alert alert-{{Session::get('alert-type')}}" role="alert">    {{Session::get('alert-message')}}</div></div>@endif  
