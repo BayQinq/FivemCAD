@@ -1,3 +1,8 @@
+> [!WARNING]
+> ## Project Suspended
+> I've suspended this project, which is intended for my personal development, until further notice. Instead of proceeding, I've put it on hold. I'm currently using CodeIgniter 4 instead of Laravel for this project. Once my other project is completed, I will reassess and potentially switch frameworks before resuming work on it.
+
+
 # FivemCAD - Fivem Polis Tablet Sitesi
 
 FivemCAD, Fivem platformu için özel olarak tasarlanmış bir Polis Bilgisayar Destek Sistemi (CAD) web sitesidir. Bu proje, polis birimleri için görev yönetimi, araç kayıtları, oyuncu veritabanı ve daha birçok özellik sunan bir web tabanlı uygulamadır.
